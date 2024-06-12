@@ -5,7 +5,7 @@
 1. install k-pro-ls, download the file from [here](https://github.com/jshinonome/k-pro-ls-for-nvim/releases/tag/1.2.0)
 
 ```
-npm --global i jshinonome-k-pro-ls-1.2.0.tgz
+npm --global i ./jshinonome-k-pro-ls-1.2.0.tgz
 ```
 
 2. install [vim-q-syntax](https://github.com/jshinonome/vim-q-syntax)
